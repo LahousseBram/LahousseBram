@@ -6,5 +6,5 @@
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LahousseBram)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
+[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=vertical&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
 
