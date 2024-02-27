@@ -1,3 +1,17 @@
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LahousseBram)](https://github.com/anuraghazra/github-readme-stats)
+# My Knowledge
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
+## Programming Languages
+
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,bash,cs,java,php,powershell,py,ts,)](https://skillicons.dev)
+
+## Databases
+
+[![My Skills](https://skillicons.dev/icons?i=graphql,mysql,redis)](https://skillicons.dev)
+
+## IDE's
+
+[![My Skills](https://skillicons.dev/icons?i=idea,vscode,visualstudio)](https://skillicons.dev)
+
+## Other
+
+[![My Skills](https://skillicons.dev/icons?i=discord,docker,figma,firebase,git,laravel,linux,md,nodejs,notion,sass,selenium,tailwind,tensorflow)](https://skillicons.dev)
