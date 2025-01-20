@@ -14,4 +14,4 @@
 
 ## Other
 
-[![My Skills](https://skillicons.dev/icons?i=discord,docker,figma,firebase,git,laravel,linux,flask,kubernetes,nuxt,postman,redis,azure,deno,md,nodejs,notion,sass,selenium,tailwind,tensorflow,flutter,vue)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=discord,docker,figma,firebase,git,laravel,linux,flask,kubernetes,nuxt,postman,azure,deno,md,nodejs,notion,sass,selenium,tailwind,tensorflow,flutter,vue)](https://skillicons.dev)
