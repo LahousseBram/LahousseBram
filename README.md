@@ -2,7 +2,7 @@
 
 ## Programming Languages
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,bash,cs,java,php,powershell,py,ts,)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,bash,cs,java,php,powershell,py,ts,flutter,vue)](https://skillicons.dev)
 
 ## Databases
 
