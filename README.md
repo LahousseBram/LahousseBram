@@ -2,7 +2,7 @@
 
 ## Programming Languages
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,bash,cs,java,php,dart,powershell,py,ts,flutter,vue)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,bash,cs,java,php,dart,powershell,py,ts)](https://skillicons.dev)
 
 ## Databases
 
@@ -14,4 +14,4 @@
 
 ## Other
 
-[![My Skills](https://skillicons.dev/icons?i=discord,docker,figma,firebase,git,laravel,linux,flask,kubernetes,nuxt,postman,redis,azure,deno,md,nodejs,notion,sass,selenium,tailwind,tensorflow)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=discord,docker,figma,firebase,git,laravel,linux,flask,kubernetes,nuxt,postman,redis,azure,deno,md,nodejs,notion,sass,selenium,tailwind,tensorflow,flutter,vue)](https://skillicons.dev)
